@@ -10,8 +10,12 @@ Only files that need to be tracked can be added to staging area, it gives more f
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+only the file in ehich the changes are mae can be added to staging area
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+when no changes are required for the original files, only a new version of the original file needs to be created
 
 How do the diagrams help you visualize the branch structure?
 
