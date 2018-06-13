@@ -19,8 +19,14 @@ when no changes are required for the original files, only a new version of the o
 
 How do the diagrams help you visualize the branch structure?
 
+it helps us to identify the commits which are reachable and the one which cannot be reached
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+we get the main branch with the commits of both branches
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+git wont know for sure what is best
